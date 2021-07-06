@@ -1,0 +1,7 @@
+C:\Users\polin\Just_all\Programming\Programming C#\LittleSnake\bin\Debug\LittleSnake.exe.config
+C:\Users\polin\Just_all\Programming\Programming C#\LittleSnake\bin\Debug\LittleSnake.exe
+C:\Users\polin\Just_all\Programming\Programming C#\LittleSnake\bin\Debug\LittleSnake.pdb
+C:\Users\polin\Just_all\Programming\Programming C#\LittleSnake\obj\Debug\LittleSnake.csprojAssemblyReference.cache
+C:\Users\polin\Just_all\Programming\Programming C#\LittleSnake\obj\Debug\LittleSnake.csproj.CoreCompileInputs.cache
+C:\Users\polin\Just_all\Programming\Programming C#\LittleSnake\obj\Debug\LittleSnake.exe
+C:\Users\polin\Just_all\Programming\Programming C#\LittleSnake\obj\Debug\LittleSnake.pdb
